@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- A welcoming way to help out new users of a project.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Helps first time users of projects with pull requests and issues
 
 ## Getting started
 
